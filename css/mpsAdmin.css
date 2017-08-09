@@ -1,0 +1,50 @@
+.f11 {    font-size:11px}
+.deptBG {
+clip:rect(0px, 970px, 400px, 0px);
+overflow-x:auto;
+overflow-y:hidden;    
+/*width:970px;*/
+}
+.deptBGSettings {
+clip:rect(0px, 650px, 400px, 0px);
+overflow-x:auto;
+overflow-y:hidden;
+/*width:650px;*/
+}
+
+#menuSearch {    display:none;    padding:5px 0 0;    font-size:0.9em;    width:100%;    float:right;}
+#menuSearch div {    font-weight:bold;}
+#menuSearch input {margin-right:0;}
+#menuSearch input.text {width:82%; border: 1px solid #000000; font-size:0.85em;}
+#menuSearch input.submits {width:5em; font-size:1em; margin-left:3px; border: 1px solid #000000; font-weight:normal;}
+#menuSearch input.small {width:3em; font-size:0.85em; border:1px solid #000000; padding-right:3px;    text-align:right; margin-left:5px; margin-right:3px;}
+#menuSearch select {font-size:1em; margin-left:5px; border:1px solid #000000; }
+#menuSearch span {margin-left:3px; font-weight:normal; }
+#menuSearch a {color:#333333; text-decoration:underline;}
+#menuSearch label { font-size:0.9em;}
+#search {    width:100%;    margin:auto}
+#formSearch {    padding:30px 0;}
+#defaultSettings {    padding:5px 0 30px;}
+#contentTemplates {    padding:0 0 30px 0;}
+#loading1 {    margin:0 auto;    padding:35px 0 0;    width:140px;}
+#loading {    
+        background:transparent url(../images/loading.gif) no-repeat scroll 0 0;
+        height:225px;
+        margin:30px auto 0;
+        width:60px;}
+.ImgCell {}
+.prod {}
+.prodImg {    overflow:hidden;    width:180px;    white-space:nowrap}
+.thumb {}
+.template {}
+.imgcol {    height:240px;    width:180px;    padding:8px;}
+.titlediv {
+        font-weight:bold;    margin:auto;
+        overflow:hidden;    padding:0 0 5px;    white-space:nowrap;    text-align:center;}
+.titletxt {}.selectdiv {}.selectdd {    width:80%;    margin:auto;}.selectop {}
+.thumbdiv {    width:100%;    padding:5px 0;    height:65%;}.thumban {}.thumbimg {}.thumb {}
+.tagsdiv {    text-align:center;}.templdiv {}.whdiv {}.wl {    float:left;    padding:5px;    width:51px;}
+.win {}.wdiv {}.wlabel {}.hdiv {}.hlabel {}.feeddiv {}.tdwh {    vertical-align: top;}
+#deptContent {
+left: 0px;
+}

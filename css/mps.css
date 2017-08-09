@@ -1,0 +1,20 @@
+.zpred { color:red }
+.zpgreen {}
+.zpbold { width:100% }
+.zp3em {}
+.zpp10 { padding-bottom:10px }
+.zptxtred {background:url(nok.png) no-repeat center left;  }
+.zptxtgreen {background:url(ok.png) no-repeat center left; }
+.zptxtyellow { background:#ff4; }
+.zpimgdiv { padding:10px;background:#eef;margin:15px }
+.zpm15 { margin:15px }
+.zprb { border: 1px solid red }
+.w30 { }
+.w70 { }
+#sendEmailForm { text-align:left }
+#sendEmailForm td { min-width:80px }
+#sendEmailForm tr { }
+#emailtochk, #emailfromchk {background:url(nok.png) no-repeat center left;  padding-left:20px; display:none}
+#ajaxbox {padding: 10px 10px 10px 20px; font-weight:normal; font-style:italic; display:none; width:90%}
+#zpePlayerOuter {position:relative;}
+#zpePlayerLink {position:relative; top:-2em;}
